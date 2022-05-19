@@ -1,0 +1,10 @@
+com/example/truecitizen/BuildConfig.java
+ com.example.truecitizen.BuildConfig
+com/example/truecitizen/DataBindingTriggerClass.java
+ com.example.truecitizen.DataBindingTriggerClass
+com/example/truecitizen/databinding/ActivityMainBinding.java
+ com.example.truecitizen.databinding.ActivityMainBinding
+com/example/truecitizen/MainActivity.java
+ com.example.truecitizen.MainActivity
+com/example/truecitizen/model/Question.java
+ com.example.truecitizen.model.Question
